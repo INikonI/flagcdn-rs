@@ -1,0 +1,9 @@
+[package]
+name = "flagcdn"
+version = "1.0.0"
+license = "MIT"
+edition = "2024"
+description = "A simple library for generating CDN links to country flag icons in various sizes and formats."
+authors = ["INikonI <github.com/INikonI>"]
+repository = "https://github.com/INikonI/flagcdn-rs"
+keywords = ["flags", "cdn", "icons", "country", "flagpedia"]
